@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "name": "Night cream",
+      "brand": "tira",
+      "notes": "This night cream is specially formulated to rejuvenate and hydrate your skin while you sleep. Enriched with potent botanical extracts like mulberry and grape, it helps reduce dark spots, even out skin tone, and enhance natural radiance",
+      "price": 566,
+      "img": "https://i.pinimg.com/736x/53/7f/42/537f425548faaffc1eb8702d01935f1b.jpg",
+      "id": "b32b"
+    },
+    {
+      "name": "Face Serum",
+      "brand": "Iaang",
+      "notes": " Specially formulated for the fragile under eye area, this cream deeply hydrates and promotes cell regeneration to reduce dark circles and fine lines",
+      "price": "300",
+      "img": "https://i.pinimg.com/736x/99/05/8c/99058c24499256dbba533b6b4b5429c0.jpg",
+      "id": "dc26"
+    }
+  ]
+}
